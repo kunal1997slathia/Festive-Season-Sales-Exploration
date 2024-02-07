@@ -4,7 +4,7 @@
 
 This Python project focuses on conducting a thorough analysis of sales data to extract valuable insights and inform strategic decision-making for businesses.
 
-The project utilizes popular Python libraries such as Pandas, Matplotlib, Seaborn, and Plotly for data manipulation, visualization, and exploration.
+The project utilizes popular Python libraries such as Pandas, Matplotlib and Seaborn for data manipulation, visualization, and exploration.
 
 # Features
 
