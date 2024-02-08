@@ -2,8 +2,8 @@
 
 "Exploring sales trends during the Diwali festival season in India."
 
+# Objective:
 This Python project focuses on conducting a thorough analysis of sales data to extract valuable insights and inform strategic decision-making for businesses.
-
 The project utilizes popular Python libraries such as Pandas, Matplotlib and Seaborn for data manipulation, visualization, and exploration.
 
 # Features
